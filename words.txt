@@ -4,21 +4,17 @@ bahrain
 barbados
 belarus
 belize
-bosnia and herzegovina
 botswana
 brazil
 cambodia
 chile
-costa rica
+china
 cyprus
-dominican republic
-east timor
 egypt
 georgia
 germany
 ghana
 greece
-hong kong
 india
 iraq
 ireland
@@ -38,12 +34,9 @@ philippines
 portugal
 senegal
 somalia
-south sudan
 sweden
 tanzania
 turkmenistan
-united kingdom
-united states
 uzbekistan
 vietnam
 yemen
