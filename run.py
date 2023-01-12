@@ -12,3 +12,13 @@ def get_random_word():
     """
     random_word = random.choice(open("words.txt").read().split('\n'))
     return random_word.upper()
+
+def main():
+    """
+    Runs the game 
+    """
+    game_word = get_random_word()
+    print("Lets play hangman!")
+
+
+main()
